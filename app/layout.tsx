@@ -28,7 +28,10 @@ export const metadata: Metadata = {
       "Trian & Salzahara | Wedding Invitation",
 
     description:
-      "Dengan hormat kami mengundang Anda untuk hadir pada acara pernikahan kami.",
+      "Dengan penuh sukacita kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri acara pernikahan Trian & Salzahara yang akan diselenggarakan pada 12 Agustus 2027.",
+
+    siteName:
+      "Wedding Invitation Trian & Salzahara",
 
     images: [
       {
