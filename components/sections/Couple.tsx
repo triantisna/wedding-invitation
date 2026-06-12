@@ -77,7 +77,7 @@ export default function Couple() {
               />
             </div>
 
-            <h3 className="mt-6 text-3xl font-bold">
+            <h3 className="font-wedding mt-6 text-4xl">
               {bride.fullName}
             </h3>
 
