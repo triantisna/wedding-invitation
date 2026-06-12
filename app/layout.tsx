@@ -15,7 +15,7 @@ const greatVibes = Great_Vibes({
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://wedding-invitation.vercel.app"
+    "https://wedding-invitation-trian-salsa.vercel.app"
   ),
 
   title: "Trian & Salzahara | Wedding Invitation",
