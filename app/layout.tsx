@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     description:
       "Dengan hormat kami mengundang Anda untuk hadir pada acara pernikahan kami.",
 
-    images: ["/og-image.png"],
+    images: ["/og-image.jpg"],
   },
 };
 
